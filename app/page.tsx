@@ -3,8 +3,6 @@ import CompanionsList from "@/components/CompanionList";
 import CTA from "@/components/CTA";
 import { recentSessions } from "@/constants";
 
-import { getSubjectColor } from "@/lib/utils";
-
 const Page = () => {
   return (
     <main>
